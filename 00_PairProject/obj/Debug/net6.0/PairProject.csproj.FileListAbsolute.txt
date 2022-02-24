@@ -1,0 +1,15 @@
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\PairProject.exe
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\PairProject.deps.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\PairProject.runtimeconfig.json
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\PairProject.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\ref\PairProject.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\bin\Debug\net6.0\PairProject.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.csproj.AssemblyReference.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.AssemblyInfoInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.AssemblyInfo.cs
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.csproj.CoreCompileInputs.cache
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\ref\PairProject.dll
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.pdb
+C:\Users\mmr21\OneDrive\Documents\CF127FT\codingFoundation\assignments\00_PairProject\obj\Debug\net6.0\PairProject.genruntimeconfig.cache
